@@ -15,10 +15,10 @@ body{
  
 
 }
-/* .background-image{
-  margin: 2rem;
-  height: 95vh;
-  width: 95vw;
-  background-color: #160c61;
-} */
+.gear-vr{
+  position: absolute;
+  top: 8rem;
+  right: 25rem;
+
+}
 
