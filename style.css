@@ -28,10 +28,7 @@ body{
   margin-left: 2rem;
 
 }
-.spacer{
-  display: flex;
-  flex-grow: 1;
-}
+
 .logos{
   display: flex;
 }
