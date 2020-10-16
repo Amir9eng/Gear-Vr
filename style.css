@@ -21,15 +21,5 @@ body{
   right: 25rem;
 
 }
-.properties{
-  display: flex;
-  flex-direction: column;
-  height: 100%;
-  margin-left: 2rem;
-
-}
-
-.logos{
-  display: flex;
-}
+  
 
