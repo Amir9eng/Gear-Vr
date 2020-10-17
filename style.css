@@ -12,14 +12,41 @@ body{
   position: relative;
   width: 100vw;
   height: 100vh;
- 
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 
 }
-.gear-vr{
+.container{
+  height: 100vh;
+  position: relative;
+}
+h2{
+  color: white;
+  font-size: large;
+  font-weight: 900;
+}
+.gears{
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  height: 100%;
+}
+.ejo{
+  margin: 2rem 2rem;
+}
+.ejo img{
+  margin-bottom: 1rem;
+}
+.ejo p{
+  color: #746EA8;
+  padding: .6rem 0;
+  font-weight: 800;
+}
+.lander{
   position: absolute;
-  top: 8rem;
-  right: 25rem;
-
+  top: 0;
+  right: calc(50%);
 }
-  
-
+footer{
+  display: flex;
+  margin: 2rem 2.3rem;
+}
